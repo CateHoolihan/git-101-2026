@@ -28,6 +28,7 @@
     "Shreyash Turai",
     "Minh Trung",
     "Atharv Singh Panwar"
+    "Cate Hoolihan"
     // Add your name above this line! (Do not delete this)
 ];
 
